@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Executable>E:\New folder\Lab_7\Debug\Test.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="Queue.NumofItems" Duration="1" />
+    <TestDuration Test="Queue.TASK1" Duration="1" />
+    <TestDuration Test="Queue1.TASK2" Duration="1" />
+    <TestDuration Test="QUEUE2.TASK3" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>
