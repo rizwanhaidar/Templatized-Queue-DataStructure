@@ -38,10 +38,10 @@ None
 Results:
 Returns true if a queue is empty. Otherwise, returns false.
 
-Task 1:
+## Task 1:
 Code a Templatized Queue
 
-Task 2:
+## Task 2:
 In this Exercise, you have to take a single string as input. Using this input string, you have to create multiple
 queues in which each queue will comprise of separate word appeared in input string. At the end, you will again
 concatenate all queues to a single queue.
