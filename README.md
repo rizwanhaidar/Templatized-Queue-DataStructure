@@ -50,9 +50,14 @@ Example:
 String = “Data Structure and
 Algo”
 Q1 = D → a → t → a
+
 Q2 = S → t → r → u → c → t → u → r
 →e
+
 Q3 = a → n → d
+
 Q4 = A → l → g → o
+
 At the end concatenate all queues and display them.
+
 Q1 → Q2 → Q3 → Q4
